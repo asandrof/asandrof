@@ -1,16 +1,49 @@
-## Hi there 👋
+# Alexsandro Felix
 
-<!--
-**asandrof/asandrof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Engineer focused on financial systems where reliability, predictable performance and operational resilience are critical to the business.
 
-Here are some ideas to get you started:
+I design and build backend systems for environments where availability, consistency and performance directly affect business outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work is focused on financial systems, distributed platforms, transaction-intensive services and the technical challenges of operating critical backend software under demanding conditions.
+
+## Focus
+
+**Financial Systems** · **Distributed Systems** · **JVM Performance** · **Event-Driven Architecture** · **Enterprise AI**
+
+## Professional Areas
+
+- Financial systems and transaction processing
+- Distributed systems and operational resilience
+- JVM performance and system efficiency
+- Event-driven architecture
+- Critical legacy integration
+- Enterprise AI integration
+
+## Primary Technologies
+
+**Java** · **Spring Boot** · **Apache Kafka** · **PostgreSQL** · **Redis** · **Docker** · **AWS**
+
+## SEN — Systems Engineering Notes
+
+**SEN (Systems Engineering Notes)** is my technical platform for exploring backend engineering, distributed systems, reliability, performance and financial technology.
+
+**SEN Systems Lab** is the practical side of this work, connecting technical concepts with software projects and experiments.
+
+## Selected Work
+
+**Financial Transaction Processing**  
+Backend systems for transaction-intensive financial scenarios.
+
+**Financial Ledger**  
+Software focused on financial ledger and transaction-processing scenarios.
+
+**Java Performance Lab**  
+Practical work focused on Java, the JVM and backend performance.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/asandrof/) · [GitHub](https://github.com/asandrof)
+
+---
+
+**Backend engineering for financial systems.**
