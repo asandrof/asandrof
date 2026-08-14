@@ -10,15 +10,6 @@ My work is focused on financial systems, distributed platforms, transaction-inte
 
 **Financial Systems** · **Distributed Systems** · **JVM Performance** · **Event-Driven Architecture** · **Enterprise AI**
 
-## Professional Areas
-
-- Financial systems and transaction processing
-- Distributed systems and operational resilience
-- JVM performance and system efficiency
-- Event-driven architecture
-- Critical legacy integration
-- Enterprise AI integration
-
 ## Primary Technologies
 
 **Java** · **Spring Boot** · **Apache Kafka** · **PostgreSQL** · **Redis** · **Docker** · **AWS**
