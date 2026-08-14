@@ -18,8 +18,6 @@ My work is focused on financial systems, distributed platforms, transaction-inte
 
 **SEN (Systems Engineering Notes)** is my technical platform for exploring backend engineering, distributed systems, reliability, performance and financial technology.
 
-**SEN Systems Lab** is the practical side of this work, connecting technical concepts with software projects and experiments.
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/asandrof/) · [GitHub](https://github.com/asandrof)
