@@ -20,17 +20,6 @@ My work is focused on financial systems, distributed platforms, transaction-inte
 
 **SEN Systems Lab** is the practical side of this work, connecting technical concepts with software projects and experiments.
 
-## Selected Work
-
-**Financial Transaction Processing**  
-Backend systems for transaction-intensive financial scenarios.
-
-**Financial Ledger**  
-Software focused on financial ledger and transaction-processing scenarios.
-
-**Java Performance Lab**  
-Practical work focused on Java, the JVM and backend performance.
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/asandrof/) · [GitHub](https://github.com/asandrof)
